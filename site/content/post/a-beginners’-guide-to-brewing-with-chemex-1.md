@@ -53,6 +53,12 @@ image: ""
 
 ![](https://lh6.googleusercontent.com/EqJpemMY_Sa2K4zp4PStNTCQwotfQbvd5URPCcQfkVX8rrTg_SGhaQl2Dw4pb9V7B8RhHHo9eerwcs5hEubQahhvAQjLj3mOay2JFnvygvGGZodZZ5245FxPR2cN8UpSLp50EFti)
 
+![](<iframe width="560" height="315" src="https://www.youtube.com/embed/DoLzQN1m7sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+[![Alternate Text]({https://lh6.googleusercontent.com/EqJpemMY_Sa2K4zp4PStNTCQwotfQbvd5URPCcQfkVX8rrTg_SGhaQl2Dw4pb9V7B8RhHHo9eerwcs5hEubQahhvAQjLj3mOay2JFnvygvGGZodZZ5245FxPR2cN8UpSLp50EFti})]({https://www.youtube.com/embed/DoLzQN1m7sU} "Link Title")
+
+
+
 هذه التعبيرات التي يبحث بها الناس عن شقق في الشيخ زايد سواء للشراء أو الإيجار
 
 وهذا الأمر ينطبق على كثير من التعبيرات مثل شقق في القاهرة، شقق في مدينة نصر، شقق في التجمع
