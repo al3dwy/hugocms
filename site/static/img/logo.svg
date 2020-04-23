@@ -1,26 +1,26 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="1200" xmlns="http://www.w3.org/2000/svg">
 
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <rect fill="none" id="canvas_background" height="1202" width="1602" y="-1" x="-1"/>
  </g>
  <g>
   <title>Layer 1</title>
   <g stroke="null" id="svg_1">
-   <g stroke="null" id="svg_2" transform="matrix(0.4244673307681137,0,0,0.4310086855388771,-192.03069091404694,403.8522447893496) ">
-    <circle stroke="null" id="svg_3" fill="#f00" r="109.75" cy="-291.518037" cx="805.485239"/>
-    <circle stroke="null" id="svg_4" fill="#fff" r="86.286003" cy="-291.518037" cx="805.485239"/>
-    <circle stroke="null" id="svg_5" fill="#f00" r="59.41" cy="-291.518037" cx="805.485239"/>
-    <circle stroke="null" id="svg_6" fill="#fff" r="31.120001" cy="-291.518037" cx="805.485239"/>
-    <circle stroke="null" id="svg_7" fill="#1a1a1a" r="11.316" cy="-291.518037" cx="805.485239"/>
-    <rect stroke="null" id="svg_8" fill="#fff" height="121.64" width="7.3168" y="-891.723185" x="338.450594" transform="matrix(0.72964,0.68383,-0.72964,0.68383,0,0) "/>
+   <g stroke="null" id="svg_2" transform="matrix(1.077302483295962,0,0,1.118187928539993,-1112.6637701224704,270.4374593608922) ">
+    <circle stroke="null" id="svg_3" fill="#f00" r="109.75" cy="242.62045" cx="1396.737754"/>
+    <circle stroke="null" id="svg_4" fill="#fff" r="86.286003" cy="242.62045" cx="1396.737754"/>
+    <circle stroke="null" id="svg_5" fill="#f00" r="59.41" cy="242.62045" cx="1396.737754"/>
+    <circle stroke="null" id="svg_6" fill="#fff" r="31.120001" cy="242.62045" cx="1396.737754"/>
+    <circle stroke="null" id="svg_7" fill="#1a1a1a" r="11.316" cy="242.62045" cx="1396.737754"/>
+    <rect stroke="null" id="svg_8" fill="#fff" height="121.64" width="7.3168" y="-906.341293" x="1134.167055" transform="matrix(0.72964,0.68383,-0.72964,0.68383,0,0) "/>
     <g stroke="null" id="svg_9" fill="#f00" transform="matrix(0.71625,0.6759,-0.71625,0.6759,-535.86,-1805.8) ">
-     <rect stroke="null" id="svg_10" height="29.5" width="17.692" y="1931.406787" x="2798.548746" transform="matrix(0.7348,-0.67828,0,1,0,0) "/>
-     <rect stroke="null" id="svg_11" height="29.5" width="17.692" y="-1865.474308" x="-2799.248746" transform="matrix(-0.7348,-0.67828,0,1,0,0) "/>
+     <rect stroke="null" id="svg_10" height="29.5" width="17.692" y="2659.528694" x="3897.994891" transform="matrix(0.7348,-0.67828,0,1,0,0) "/>
+     <rect stroke="null" id="svg_11" height="29.5" width="17.692" y="-2628.817064" x="-3898.694891" transform="matrix(-0.7348,-0.67828,0,1,0,0) "/>
     </g>
-    <rect stroke="null" id="svg_12" fill="#1a1a1a" height="152.11" width="9.1494" y="-918.988489" x="338.402289" transform="matrix(0.72639,0.68728,-0.72639,0.68728,0,0) "/>
+    <rect stroke="null" id="svg_12" fill="#1a1a1a" height="152.11" width="9.1494" y="-937.379862" x="1133.971067" transform="matrix(0.72639,0.68728,-0.72639,0.68728,0,0) "/>
    </g>
   </g>
-  <text stroke="#000" transform="matrix(2.51015293742266,0,0,2.4360687732696533,-587.3816305808632,-294.68579998984933) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="50" id="svg_13" y="251.192038" x="314.296245" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">tsweeq</text>
+  <text stroke="#000" transform="matrix(4.732791369700774,0,0,6.307998768345964,-1042.3290593766696,-935.0470029638718) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="50" id="svg_13" y="251.192038" x="326.528849" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">tsweeq</text>
  </g>
 </svg>
