@@ -1,25 +1,229 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2020-04-18T03:19:56.577Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: طريقة التسويق العقاري
+date: 2020-04-23T01:45:00.656Z
+description: >+
+  هناك تقريبا  ١٠٠ عملية بحث شهرية عن شقق في الشيخ زايد إذا كنت تسوق لشقق في
+  الشيخ زايد ولا تظهر على 
+
+  محركات البحث (جوجل) فانت تخسر كل شهر تقريبا ١٠٠ عميل محتمل 
+
+
+  إذا ما هي الطريقة الصحيحة والحديثة للتسويق العقاري على الانترنت للحصول على نتائج وعملاء مؤكدين ؟
+
+
+  العقارات كأي منتج تريد تسويقه على الانترنت يجب أن تبني عدة أساسيات قبل البدء في عملية التسويق  
+
+image: img/pasted-image-0.png
 ---
+طريقة التسويق العقاري
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+![](https://lh4.googleusercontent.com/-MrXU6UoYdhVp3du60KOuqePUP1WYqr1xII3OaZ_QYSRokEkZM_BZGxhwW643QmxYo7xiUxS3rDsSlxuxlcOtw-PG45CT8IsqC8oIS8uy9URXPAKlFsR-om4Dv4Nr1WkgRoirAd-)
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+هناك تقريبا ١٠٠ عملية بحث شهرية عن شقق في الشيخ زايد إذا كنت تسوق لشقق في الشيخ زايد ولا تظهر على محركات البحث (جوجل) فانت تخسر كل شهر تقريبا ١٠٠ عميل محتمل
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
+
+إذا ما هي الطريقة الصحيحة والحديثة للتسويق العقاري على الانترنت للحصول على نتائج وعملاء مؤكدين ؟
+
+
+
+العقارات كأي منتج تريد تسويقه على الانترنت يجب أن تبني عدة أساسيات قبل البدء في عملية التسويق
+
+
+
+ولحسن الحظ فإن هذه الأساسيات تكون أسهل في التسويق العقاري الالكتروني مقارنة بالتسويق التقليدي كاللوحات الاعلانية على الطرق وأقل تكلفة من اعلانات التلفزيون وأكثر مشاهدة في عالم اليوم الذي يمضي أغلب الناس فيه وقت كبير على الانترنت
+
+
+
+ما هي الأساسيات التي تحتاجها ؟
+
+
+
+* خطة تسويقية (طريقة عمل خطة تسويقية)
+* موقع إلكتروني وحسابات على وسائل التواصل الاجتماعي
+* محتوى تسويقي
+* * صور للعقارات من الخارج والداخل
+  * صور للمنطقة المتواجد فيها العقار وأي خدمات مميزة في المنطقة
+  * فيديو او موشن جرافيك للخدمات العقارية التي تقدمها مثل التالي
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5s3AfDnta10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+* * مقالات مكتوبة تتحدث عن مجالات العقارات بشكل عام والمشاكل التي تواجهه والأسعار واتجاهات السوق والفرص الحالية والمستقبلية … إلخ
+
+
+
+لنفترض بأن لديك الموقع الالكتروني سواء موقع شركة أو مدونة مجانية ولديك الصور
+
+
+
+سوف أتحدث عن النقطة الثالثة من المحتوى التسويقي وهي النقطة المهمة جدا التي سوف تميزك عن أغلب من يقومون بعملية التسويق العقاري وسوف تحصل على نتائج كبيرة وعملاء مهتمين بشكل كبير
+
+
+
+انظر الصورة التالية للبحث عن شقة في الشيخ زايد
+
+
+
+![](https://lh6.googleusercontent.com/EqJpemMY_Sa2K4zp4PStNTCQwotfQbvd5URPCcQfkVX8rrTg_SGhaQl2Dw4pb9V7B8RhHHo9eerwcs5hEubQahhvAQjLj3mOay2JFnvygvGGZodZZ5245FxPR2cN8UpSLp50EFti)
+
+
+
+هذه التعبيرات التي يبحث بها الناس عن شقق في الشيخ زايد سواء للشراء أو الإيجار
+
+
+
+وهذا الأمر ينطبق على كثير من التعبيرات مثل شقق في القاهرة، شقق في مدينة نصر، شقق في التجمع
+
+
+
+كل عبارة من هذه العبارات لها نسبة بحث معينة
+
+
+
+وكل هؤلاء عبارة عن عملاء يبحثون عن عقاراتك فلماذا لا تظهر أمامهم في محركات البحث
+
+
+
+![](https://lh6.googleusercontent.com/KgB-_yi5C8gSUqrU3M5jsBeNWt1WLftd3gd0VlNn4ycsEzSozy1rhJ3RgLXKrSwGdznyDCjdPuzlxCLpbhvb63tqBJr2h43cYu7Zk-O6OF_Xjm7jDCJqHFaRLyZHnrBIipY5lZVk)
+
+
+
+انظر لنتائج البحث على جوجل هناك نوعان
+
+
+
+أول نتيجتين هي إعلانات مدفوعة والثالثة والرابع هي نتائج طبيعية
+
+
+
+لكي تستغل الوضع بشكل كامل يجب أن تحتوي خطتك التسويقية على النوعين من الاعلانات المدفوعة والمجانية
+
+
+
+بالنسبة للاعلانات المدفوعة يمكنك قراءة المقال التالي :كيفية عمل اعلانات مدفوعة على جوجل
+
+
+
+سوف نركز هنا على كيفية الظهور في محركات البحث بشكل مجاني وطبيعي
+
+
+
+أولاً :
+
+
+
+يجب عليك كتابة مقالات عن المشاكل والاهتمامات التي تواجه عملائك المستهدفين وهم في هذه الحالة\
+( الباحثين عن عقارات للشراء).
+
+
+
+اكتب مثلا عن :
+
+
+
+* طريقة اختيار العقارات المناسبة
+* طريقة المقارنة بين الأسعار
+* أسباب زيادة سعر العقارات في مكان معين
+
+
+
+إلخ
+
+
+
+ولكن لكي تنجح يجب أن تكون مقالات جيدة ومفيدة وتحتوى على معلومات حقيقية وصور وليست مقالات عديمة القيمة
+
+
+
+لماذا ؟
+
+
+
+لان جوجل يعرف من خلال الاحصائيات التي تصله عن تجربة المستخدم ومدة بقاء الزوار على موقعك ما إذا كانت هذه المقالات تستحق أن تظهر في النتائج الأولية أم لا
+
+
+
+يجب عليك الاستمرار بالكتابة والنشر بشكل دوري
+
+
+
+الآن
+
+
+
+ما سبق هو عبارة عن تبسيط وتركيز على الفكرة الأساسية لطريقة التسويق الحديثة للعقارات على الانترنت والحصول على عملاء مؤكدين بشكل مجاني يعتمد على التسويق بالمحتوى
+
+
+
+وهي خطوة يجب القيام بها لأن لها نتائج كبيرة على المدى البعيد
+
+
+
+ممكن تعتقد بأنه من الأفضل التركيزعلى الاعلانات المدفوعة واختصار الوقت والجهد ولكنك تغفل جانب مهم جدا
+
+
+
+هو أن المنافسة على الاعلانات المدفوعة قد تصبح شديدة ومكلفة جدا
+
+
+
+إذا قمت بتهيئة موقعك والاستمرار في التسويق عن طريق كتابة المقالات وبشكل مستمر فقد تصل إلى مرحلة تحصل على مئات الزيارات الشهرية من دون تكاليف وهو استثمار ناجح بكل المقاييس
+
+
+
+هل سوف انجح من خلال موقع ومقالات عالية الجودة عن مجال العقارات فقط ؟
+
+
+
+الاجابة : هذه هي الفكرة الأساسية فقط ولكن هناك خطوات يجب القيام بها مرة واحدة
+
+
+
+وهي تتلخص في الآتي :
+
+
+
+* أن يكون الموقع متخصص في مجال واحد فقط
+* يتوافق مع أجهزة المحمول
+* سريع التحميل
+* سهل الاستخدام والتنقل ما بين أقسامه
+
+
+
+كل هذه العناصر التي تأخذها جوجل في الاعتبار عند المقارنة ما بينك وبين المواقع الأخرى التي تعمل في نفس المجال لتقرر من الذي سوف يكون في المراتب الأولى من نتائج البحث
+
+
+
+الخلاصة :
+
+
+
+التسويق بالمحتوى عالي الجودة لجذب العملاء إلى موقعك بدلاً من عرض نفسك عليهم هي طريقة حديثة ومستدامة وقليلة التكلفة ولها نتائج أكبر من أي وسيلة إعلانية أخرى يعني
+
+
+
+هتضرب ٣ عصافير بحجر واحد
+
+
+
+* نتائج مستدامة وتعطي نتائج مستمرة على المدى البعيد وليست وقتية مثل الاعلانات المدفوعة
+* قليلة التكلفة المادية
+* نتائجها مضمونة لان العميل المهتم هو الذي وصل إلي موقعك وليس أنت من عرضت إعلانك على مجموعة قد لا تكون مهتمة بالعقارات، فمن يكتب في جوجل ( شقة في التجمع الخامس بسعر كويس ) فهو احتمال كبير جدا جاد في البحث والشراء يجب أن تظهر أمامه
+
+
+
+هذه الطريقة هي جزء من تقنية كاملة في التسويق تسمى التسويق بالجذب (inbound marketing)، لمعرفة المزيد عنها قراءة المقال :التسويق بالجذب أفضل من العرض
+
+
+
+
+
+*
