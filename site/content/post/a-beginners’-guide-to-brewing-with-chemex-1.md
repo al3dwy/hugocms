@@ -35,8 +35,11 @@ image: ""
   * فيديو او موشن جرافيك للخدمات العقارية التي تقدمها مثل التالي
 
 
+[![IMAGE ALT TEXT HERE]()](https://youtu.be/DoLzQN1m7sU)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5s3AfDnta10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 * *
 
@@ -49,6 +52,18 @@ image: ""
 انظر الصورة التالية للبحث عن شقة في الشيخ زايد
 
 ![](https://lh6.googleusercontent.com/EqJpemMY_Sa2K4zp4PStNTCQwotfQbvd5URPCcQfkVX8rrTg_SGhaQl2Dw4pb9V7B8RhHHo9eerwcs5hEubQahhvAQjLj3mOay2JFnvygvGGZodZZ5245FxPR2cN8UpSLp50EFti)
+
+![](<iframe width="560" height="315" src="https://www.youtube.com/embed/DoLzQN1m7sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+[![Alternate Text]({https://lh6.googleusercontent.com/EqJpemMY_Sa2K4zp4PStNTCQwotfQbvd5URPCcQfkVX8rrTg_SGhaQl2Dw4pb9V7B8RhHHo9eerwcs5hEubQahhvAQjLj3mOay2JFnvygvGGZodZZ5245FxPR2cN8UpSLp50EFti})]({https://www.youtube.com/embed/DoLzQN1m7sU} "Link Title")
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 
 هذه التعبيرات التي يبحث بها الناس عن شقق في الشيخ زايد سواء للشراء أو الإيجار
 
