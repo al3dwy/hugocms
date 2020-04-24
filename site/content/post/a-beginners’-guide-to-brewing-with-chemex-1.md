@@ -1,18 +1,10 @@
 ---
 title: طريقة التسويق العقاري
 date: 2020-04-23T01:45:00.656Z
-description: >+
-  هناك تقريبا  ١٠٠ عملية بحث شهرية عن شقق في الشيخ زايد إذا كنت تسوق لشقق في
-  الشيخ زايد ولا تظهر على 
-
-  محركات البحث (جوجل) فانت تخسر كل شهر تقريبا ١٠٠ عميل محتمل 
-
-
-  إذا ما هي الطريقة الصحيحة والحديثة للتسويق العقاري على الانترنت للحصول على نتائج وعملاء مؤكدين ؟
-
-
-  العقارات كأي منتج تريد تسويقه على الانترنت يجب أن تبني عدة أساسيات قبل البدء في عملية التسويق  
-
+description: >
+  التسويق بالمحتوى عالي الجودة لجذب العملاء إلى موقعك بدلاً من عرض نفسك عليهم هي
+  طريقة حديثة ومستدامة وقليلة التكلفة ولها نتائج أكبر من أي وسيلة إعلانية أخرى
+  يعني
 image: ""
 ---
 ![](https://lh4.googleusercontent.com/-MrXU6UoYdhVp3du60KOuqePUP1WYqr1xII3OaZ_QYSRokEkZM_BZGxhwW643QmxYo7xiUxS3rDsSlxuxlcOtw-PG45CT8IsqC8oIS8uy9URXPAKlFsR-om4Dv4Nr1WkgRoirAd-)
@@ -62,6 +54,9 @@ image: ""
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+[![](http://img.youtube.com/vi/DoLzQN1m7sU/0.jpg)](http://www.youtube.com/watch?v=DoLzQN1m7sU "")
+
 
 
 
