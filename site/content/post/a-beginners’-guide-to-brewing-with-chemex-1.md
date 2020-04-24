@@ -55,6 +55,9 @@ image: ""
 </figure>
 <!-- blank line -->
 
+[![](http://img.youtube.com/vi/DoLzQN1m7sU/0.jpg)](http://www.youtube.com/watch?v=DoLzQN1m7sU "")
+
+
 
 
 هذه التعبيرات التي يبحث بها الناس عن شقق في الشيخ زايد سواء للشراء أو الإيجار
