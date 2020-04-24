@@ -65,6 +65,7 @@
 			content: '✱';
 			left: -1.33rem;
 			color: var(--primary);
+			display: list-item;
 		}
 	}
 
