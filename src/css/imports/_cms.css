@@ -64,7 +64,6 @@
 		& >li:before {
 			content: '✱';
 			left: -1.33rem;
-			position: absolute;
 			color: var(--primary);
 		}
 	}
