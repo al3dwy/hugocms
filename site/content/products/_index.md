@@ -1,13 +1,10 @@
 ---
-title: Our Coffee
+title: الخدمات
 type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: خدمات تسويقية شاملة
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  خدمات التسويق الالكتروني الشاملة من حيث وضع الخطة التسويقية وتهيئة المواقع لمحركات البحث وتحليل المنافسين ودراسة الكلمات المفتاحية  
+
 
 pricing:
   heading: Monthly subscriptions
