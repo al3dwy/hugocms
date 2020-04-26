@@ -3,18 +3,14 @@ title: Our Coffee
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
-description: >-
-خدمات تسويقية حديثة وشاملة
-
+description: خدمات تسويقية حديثة وشاملة
  items:
   - وضع الخطة التسويقية الالكترونية 
   - تقييم الموقع الالكتروني من ناحيةالمشاكل الفنية 
   - تقرير فني مفصل عن المنافسين  
   - تقرير فني عن كلمات البحث المناسبة 
   - تقييم المحتوى التسويقي 
-  
 
-  
 pricing:
   heading: Monthly subscriptions
   description: >-
