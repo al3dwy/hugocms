@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-
+	list-style: none;
 }
 blockquote, q {
 	quotes: none;
@@ -69,4 +69,5 @@ a {
 p {
 	direction: rtl;
 	text-align: justify;
+	max-width: 38rem;
 }
