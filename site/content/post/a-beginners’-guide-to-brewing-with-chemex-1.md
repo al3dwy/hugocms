@@ -31,7 +31,6 @@ image: ""
 
 فيديو او موشن جرافيك للخدمات العقارية التي تقدمها مثل التالي
 
-[![](http://img.youtube.com/vi/DoLzQN1m7sU/0.jpg)](http://www.youtube.com/watch?v=DoLzQN1m7sU)
 
 ***مقالات مكتوبة تتحدث عن مجالات العقارات بشكل عام والمشاكل التي تواجهه والأسعار واتجاهات السوق والفرص الحالية والمستقبلية … إلخ***
 
@@ -43,7 +42,6 @@ image: ""
 
 ![](https://lh6.googleusercontent.com/EqJpemMY_Sa2K4zp4PStNTCQwotfQbvd5URPCcQfkVX8rrTg_SGhaQl2Dw4pb9V7B8RhHHo9eerwcs5hEubQahhvAQjLj3mOay2JFnvygvGGZodZZ5245FxPR2cN8UpSLp50EFti)
 
-![](<iframe width="560" height="315" src="https://www.youtube.com/embed/DoLzQN1m7sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 هذه التعبيرات التي يبحث بها الناس عن شقق في الشيخ زايد سواء للشراء أو الإيجار
 
