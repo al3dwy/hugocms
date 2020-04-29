@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/omair.svg
+logo: /img/omair.jpeg
 contact_entries:
   - heading: عمير العدوي
     text: خبير التسويق الالكتروني
