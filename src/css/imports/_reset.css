@@ -69,5 +69,5 @@ a {
 p {
 	direction: rtl;
 	text-align: justify;
-	max-width: 38rem;
+	max-width: 38rem !important;
 }
