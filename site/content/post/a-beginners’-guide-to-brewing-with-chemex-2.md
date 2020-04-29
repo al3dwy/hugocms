@@ -1,25 +1,88 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: تسويق المنتجات عبر الانترنت
 date: 2020-04-18T03:20:26.418Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
-image: /img/blog-chemex.jpg
+description: >+
+  ضروري جدا تحديد الفئة التي تستهدفها بكل دقة، لأن هذا هو الأساس الذي سوف تبني
+  عليه خطتك التسويقية وتحدد طريقة ووسيلة التسويق المناسبة وحتى لا تضيع الوقت
+  والمال أثناء التخطيط والتنفيذ على فئة غير مهتمة أصلا بما تقدم، (يعني التركيز
+  مهم جدا) لا يجوز أن تستهدف كل الفئات كالعمال والفلاحين والطلبة في نفس الخطة
+  التسويقية
+
+image: ""
 ---
+تسويق المنتجات الجديدة في ثلاث خطوات
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+أولاً : تحديد الفئة المستهدفة
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+أول وأهم خطوة يجب القيام بها عند التفكير في كيفية التسويق لمنتج أو خدمة هي تحديد الفئة المستهدفة بدقة
 
-## The little secrets of Chemex brewing
+مثلاً هل تسهتدف :
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+<span style="color:red">الامهات في الاشهر الاخيرة من الحمل</span>
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+ موظفي الحكومة الذين هم على وشك الخروج على المعاش
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+العاملين في الخارج الذين رجعوا للاستقرار في مصر
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+ضروري جدا تحديد الفئة التي تستهدفها بكل دقة، لأن هذا هو الأساس الذي سوف تبني عليه خطتك التسويقية وتحدد طريقة ووسيلة التسويق المناسبة وحتى لا تضيع الوقت والمال أثناء التخطيط والتنفيذ على فئة غير مهتمة أصلا بما تقدم، (يعني التركيز مهم جدا) لا يجوز أن تستهدف كل الفئات كالعمال والفلاحين والطلبة في نفس الخطة التسويقية
+
+
+
+ثانيا : دراسة الفئة المستهدفة
+
+دراسة هذه الفئة التي تستهدفها دراسة عميقة وتحليلية من خلال جمع أكبر قدر ممكن من المعلومات عنهم
+
+أعمارهم، جنسهم، جنسيتهم، اهتماماتهم، تعليمهم، … الخ
+
+لماذا ؟
+
+حتى تستطيع تحديد طريقة التسويق المناسبة لهم هل هي
+
+التسويق بالمحتوى جاد أو تافه أو ترفيهي (مقالات، فيديوهات، كرتون موشن جرافيك ..: الخ )
+
+التسويق عبر البريد الالكتروني
+
+التسويق عبر ….
+
+
+وتحديدوسيلة التسويقالمناسبة هل هي : (وسيلة التسويق تختلف عن طريقة التسويق ركز الله يخليك)
+
+* المدونات
+* يوتيوب
+* فيسبوك
+* تويتر
+* تيك توك
+* انستجرام
+
+يعني مثلا بالنسبة للأمهات الجدد ممكن انشاء فيديو تثقيفي عن كيفية العناية بالطفل والطريقة الصحيحة في تحميمه مثل هذا الفيديو
+
+هنا الفئة المستهدفة هي ( الأمهات الجدد) وطريقة التسويق هي ( التسويق بالمحتوى(الفيديو)) والوسيلة هي ( اليوتيوب) والهدف هو نشر الوعي بالعلامة التجارية ( راجعأهداف الحملات التسويقية)
+
+مثال آخر :
+
+لنفترض بأننا نستهدف المصرين العاملين في الخليج الذين يبحثون عن فرصة للاستثمار في مصر
+
+يمكننا نشر مقال ذو جودة عالية يتحدث عن أفضل طرق الاستثمار ومميزات وعيوب كل طريقة وبعد ذلك نشر اعلان مدفوع في دول الخليج مثلا للكلمات المفتاحية التالية :
+
+![](https://lh4.googleusercontent.com/7GWJBf5nCrVCjJNNsvgwR1bQTyX3oW48xcH1jXhAnUrrQEaA7MI6oId6nlFuXSN6IXFNierjV1MA0FlyqSrJ5pqYqruNMsO-MsZ-HZ09et7JRu5hr-wkbnbSAp7Ma4MvzohKSboH)
+
+![](https://lh6.googleusercontent.com/X3tKGJldqZjWyN7w99eSnjqPsAAgXTGJgCZ70b-NcdU8vweELVyRNFD_pgmbl729RKJmjiOU7ykqm0NzIGkWEKY3erl7gV2rzqabe1P8QITCc4TMsjGkk1JoKd8aCOqynd8knZbC)
+
+ثانيا: تحديد الهدف من الحملة التسويقية
+
+هل تقوم بالتسويق من أجل التعريف بعلامتك التجارية ( خلق الوعي كأول مرحلة من مراحل التسويق الالكتروني )
+
+أم هل تقوم بالتسويق من أجل الحصول على مزيد من العملاء
+
+ثالثا :
+
+تحديد المشكلة التي تواجهها هذه الفئة
+
+* التسويق المدفوع على محركات البحث
+* التسويق الطبيعي على محركات البحث من خلال بناء محتوى حصري ومتجدد ومفيد للفئة التي تستهدفها
+
+ولكن قبل ذلك يجب تحديد الكلمات المفتاحية التي يبحث عنها عملائك المحتملين ( بناء قائمة بالكلمات المفتاحية التي تريد المنافسة عليها)
+
+رابعا : اظهار الحل الذي يقدمه منتجك او خدمتك
+
+خامسا : ابراز قصص النجاح

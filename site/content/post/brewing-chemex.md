@@ -1,26 +1,181 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: تحليل المنافسين
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+description: |-
+  يجب عليك في البداية تجميع البيانات الضرورية لإجراء عملية التحليل  
+
+  قم بالخطوات التالية للحصول على ذلك : 
+
+  ١- تحديد الكلمات المفتاحية : 
+   
+  - أنشأ جدول لبيانات الكلمات المفتاحية وعبارات البحث كالتالي : 
+image: ""
 ---
+تحليل المنافسين في العالم الرقمي
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+يجب عليك في البداية تجميع البيانات الضرورية لإجراء عملية التحليل
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+قم بالخطوات التالية للحصول على ذلك:
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
+
+١-تحديد الكلمات المفتاحية:
+
+
+
+\-أنشأ جدول لبيانات الكلمات المفتاحية وعبارات البحث كالتالي:
+
+
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+
+
+
+لنفترض بأن نشاطك التجاري هو تجارة المواد التجميلية
+
+
+
+\-استخدم جوجل في تحديد العبارات التي يبحث عنها المهتمين بمجالك
+
+
+
+* استخدم أداةubersuggestللحصول على متوسط عمليات البحث الشهرية ومتوسط تكلفة النقرة ومدى صعوبة المنافسة على هذه الكلمة
+
+
+
+* كرر هذه العملية لكل كلمة مفتاحية مرتبطة بمجالك وسوف تحصل على جدول شبيه بالتالي:
+
+
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+
+
+
+٢-تحديد وتحليل المنافسين:
+
+
+
+\-اضغط على كلمة مفتاحية واحدة من أجل إظهار المنافسين كما في الصورة التالية:
+
+\-حمل جدول المنافسين لكل كلمة مفتاحية
+
+
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+
+
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+
+
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |
+
+
+
+* من خلال الجداول في الأعلى يمكنك تحديد أكثر ١٠ منافسين لك في نفس المجال في الظهور في محركات البحث
+* استخدم أداة sumresh من أجل الحصول على معلومات عن هؤلاء المنافسين
+* في الجدول التالي يمكنك معرفة أقوى هؤلاء المنافسين من ناحية ترتيب موقعه على العالم وترتيبه في السوق المستهدف (مصر).
+
+
+
+* من الجدول التالي يمكنك استخلاص مدى قوة المنافس من ناحية معدل الصفحات التي يشاهدها كل زائر ونسبة رجوع الزوار للموقع
+
+
+
+هذه معلومات مهمة جدا من أجل معرفة منافسيك قبل اتخاذ القرارات الخاصة بوضع خطتك التسويقية
+
+التي تهدف إلى التفوق على منافسيك والحصول على أكبر عدد من الزيارات لموقعك الالكتروني
+
+
+
+* من الجدول التالي يمكنك معرفة نسب حصول منافسيك على الزيارات سواء من محركات البحث أم من وسائل التواصل الاجماعي أو بشكل مباشر من خلال روابط مواقعهم
+
+
+
+* من الجدول التالي يمكنك معرفة أقوى المواقع من حيث الروابط الخلفية والتي تعطي للموقع مصداقية لدى محركات البحث
+
+
+
+لمعرفة كيفية بناء الروابط الخلفية لموقعك أقرأ : الروابط الخلفية وأهميتها للمواقع الالكترونية
+
+
+
+* من الجدول التالي يمكنك معرفة من المنافسين الذي يستحوذ على الكلمات المفتاحية التي تريد المنافسة عليها
+
+
+
+* الجدول التالي يوضح تغير وضع المنافسين ويمكنك معرفة هل المنافس في حالة صعود أم هبوط لموقعه في ترتيب المواقع العالمية
+
+
+
+* من الجداول التالية يمكنك معرفة من أين يحصل منافسيك على الروابط الخلفية لمواقعهم
+
+
+
+* من خلال البيانات التي حصلت عليها يمكنك تحديد أهم ٣ منافسين لك في نفس المجال
+
+
+
+\- باستخدام نفس semrush حلل قوة كل منافس من المنافسين الثلاثة ابتحليل قوة المواقع المنافسة باستخدام أداة
+
+
+
+![](https://lh6.googleusercontent.com/jJxpzCkrj4Wvz0F_im1tMKzlbyPc0ycN5whXf-uBmZB0CsLYErJoW4ep7aELlsuXftwZXPMHVvf8BuRHsnh8TuDFw3LD6PGe0jKXlf2_7d1H8HpbBZ4hTiLZU78nw21CoOQNGPE)
+
+
+
+يمكن استخلاص البيانات كثيرة من الأداة في الأعلى مثل قوة دومين المنافس وعدد الروابط الخلفية وعدد الزيارات الطبيعية التي يحصل عليها الموقع من خلال محركات البحث وما هي أفضل الكلمات التي تجلب له الزيارات… إلخ
