@@ -12,13 +12,13 @@
 
 	/* Typography */
 	--font-family: Tajawal;
-	--line-height: 1.5;
+	--line-height: 2;
 
 	--font-size: 18px;
 	--font-size-m: 20px;
 	--font-size-l: 18px;
 
-	--body-font-weight: 400;
+	--body-font-weight: 500;
 	--bold-font-weight: 700;
 
 	/* Sizing */
