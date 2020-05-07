@@ -38,7 +38,7 @@
 
 	/* Links */
 	& a {
-		color: var(blue);
+		color: var(--blue);
 		transition: var(--hover-transition);
 		&:hover {
 			background-color: var(--highlight);

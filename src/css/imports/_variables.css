@@ -7,18 +7,18 @@
 	--grey-1: #f1f1f1;
 	--grey-2: rgba(235, 231, 230, 1);
 	--grey-3: rgba(89, 87, 86, 1);
-	--grey-4: rgba(66, 64, 64, 1);
+	--blue: rgb(7, 2, 255);
 	--black: rgba(43, 37, 35, 1);
 
 	/* Typography */
 	--font-family: Tajawal;
-	--line-height: 2;
+	--line-height: 1.8;
 
 	--font-size: 18px;
 	--font-size-m: 20px;
 	--font-size-l: 18px;
 
-	--body-font-weight: 500;
+	--body-font-weight: 550;
 	--bold-font-weight: 700;
 
 	/* Sizing */
