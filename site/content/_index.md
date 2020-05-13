@@ -7,7 +7,7 @@ blurb:
   text: al3dawi .
 intro:
   heading: What we offer
-  text: Kaldi i their
+  text:  i their
     .
 products: []
 values:
