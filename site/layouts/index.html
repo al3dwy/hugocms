@@ -1,15 +1,23 @@
 {{ define "main" }}
 
-<div class="mw6 center ph3 pv4">
-  <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-  <div class="flex justify-between grey-3">
-    <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-  </div>
-  <div class="cms mw6">
-    <p>{{ .Description }}</p>
-    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-    {{ .Content }}
-  </div>
+<div class="tr bg-off-white pv4">
+	<div class="tr ph3 mw7 center">
+
+
+		<div class="tr w-100 flex-ns mhn1-ns flex-wrap mb3">
+			{{ range first 6 (where .Data.Pages "Type" "post") }}
+				<div class="ph1-ns w-50-ns flex">
+					{{ .Render "li" }}
+				</div>
+			{{ end }}
+		</div>
+
+		<div class="tc">
+			<a href="/post" class="btn raise">Read more</a>
+		</div>
+
+	</div>
 </div>
+
 
 {{ end }}
