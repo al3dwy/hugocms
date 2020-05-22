@@ -4,3 +4,8 @@ ul {
   list-style: square !important; 
   direction: rtl !important;
 }
+
+.nav {
+  list-style: none!important; 
+  direction: rtl !important;
+}
